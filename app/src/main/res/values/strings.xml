@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewTask</string>
+    <string name="name_of_list">What is the name of you list</string>
+    <string name="creat_list">Create</string>
+</resources>
