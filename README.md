@@ -1,4 +1,2 @@
-THIS IS README
+คลิปวิดีโอสาธิตการใช้ App : https://youtu.be/nG37ogKLZ78
 
-
-https://youtu.be/nG37ogKLZ78
